@@ -47,27 +47,27 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/rellz.fvnkyy' //Link Instagrammu
-global.sgh = 'https://github.com/rellzxd' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/IqFfoXcdh7UFyPoQTpKoQp'
+global.sig = 'https://instagram.com/rannd_ada10' //Link Instagrammu
+global.sgh = 'https://github.com/Randi41' //Link Githubmu
+global.sgc = 'https://chat.whatsapp.com/LMFH2Zm7mbUIUhFAOjyGNR'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
-global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
+global.snh = 'https://trakteer.id/rannd-donate/showcase/bot-wa-donate-yGS7K' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '087833306677' //Nomor Danamu
-global.ppulsa = '087833306677' //Xl
-global.psaweria = 'https://saweria.com/RellzFvnkyy' //Link Saweriamu Kalo Nggada Ketik - aja
+global.pdana = '085752583246' //Nomor Danamu
+global.ppulsa = '089509340893' //Xl
+global.psaweria = 'https://saweria.com/ranndada10' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285876138954' //Nomor Bot
-global.nomorown = '84352438984' //Nomor Owner
-global.namebot = 'Fvnkyy BOTz' //Nama Bot
-global.nameown = 'Rellz' // Nama Owner
+global.nomorbot = '6289509340893' //Nomor Bot
+global.nomorown = '6285752583246' //Nomor Owner
+global.namebot = 'Rann BOTz' //Nama Bot
+global.nameown = 'RannD' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['84352438984', '❦ rellz 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6285752583246', '❦ RannD 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -99,22 +99,22 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 FVNKYY BOTZ 汉  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘FVNKYY BOTZ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = 'FVNKYY BOTZ'
+global.wm = '                「 Rann D Shanks 汉  」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Rann BOTZ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = 'RannD BOTZ'
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
-global.titlebot = 'By Rellz'
+global.titlebot = 'By RannD'
 global.author = global.wm
 global.logo = 'https://ibb.co/17RY7x9'
 
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/8154df0022fa4eacc13ce.jpg' //Main Thumbnail
-global.thumb2 = 'https://telegra.ph/file/8154df0022fa4eacc13ce.jpg'
-global.thumbbc = 'https://telegra.ph/file/8154df0022fa4eacc13ce.jpg' //For broadcast
-global.giflogo = 'https://telegra.ph/file/8154df0022fa4eacc13ce.jpg'
+global.thumb = 'https://telegra.ph/file/853dcd46c314dcb1cc29f.jpg' //Main Thumbnail
+global.thumb2 = 'https://telegra.ph/file/853dcd46c314dcb1cc29f.jpg'
+global.thumbbc = 'https://telegra.ph/file/853dcd46c314dcb1cc29f.jpg' //For broadcast
+global.giflogo = 'https://telegra.ph/file/853dcd46c314dcb1cc29f.jpg'
 global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1598c29a621.jpg',
 'https://i.pinimg.com/originals/85/4d/bb/854dbbd30304cd69f305352f0183fad0.jpg',
 'https://i.pinimg.com/originals/32/2c/a4/322ca456fa2cdec4b717895a65adfa8d.jpg',
@@ -330,7 +330,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error.```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 857-3617-8354'
+global.phn = '+62 857-5258-3246'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -372,8 +372,8 @@ global.hsquere = ['⛶','❏','⫹⫺']
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
 global.stickauth = `☂︎\nF\nV\nN\nK\nY\n\nY\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
-global.packname = 'By Rellz'
-global.packname2 = 'Ig : rellz.fvnkyy'
+global.packname = 'By Rann'
+global.packname2 = 'Ig : rannd_ada10'
 
 global.multiplier = 38 // The higher, The harder levelup
 
